@@ -1,5 +1,7 @@
 # 💸 Node Coin Flip Game 💸 
 
+🌐 **Live Demo:** https://kinzarehman.github.io/node-coin-flip/
+
 ### Goal
 
 Create a simple web application that uses the `fs` and `http` modules. Use `http` to create the server and `fs` to read the HTML file. Include vanilla ES6 JavaScript and create a coin flip guessing game.
